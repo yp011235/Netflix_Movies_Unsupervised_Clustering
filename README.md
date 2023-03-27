@@ -16,15 +16,21 @@ Attribute Information:
 11. listed_in
 12. description
 
-Tools:
+# Tools:
+
 TransactionEncoder: to onehot encode our text
+
 NLTK: to use their stopwords
+
 PCA: for dimensionality reduction
 
-Unsupervised Clustering Models:
+# Unsupervised Clustering Models:
+
 KMeans
+
 DBScan
+
 Agglomerative
 
-Evaluation Metrics:
+# Evaluation Metrics:
 Silhouette Score: It displays a measure of how close each point in a cluster is to points in the neighbouring clusters.
